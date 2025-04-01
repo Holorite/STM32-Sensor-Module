@@ -4925,6 +4925,17 @@
 		)
 		(uuid "bc5f626c-8dd9-4d7f-955a-c7c1b9976ad9")
 	)
+	(text "This design uses the STM32U031C8T6 mcu, it is extended on JLCPCB.\nThe STM32L151C8T6 is extended prefered, switching to this should be considered."
+		(exclude_from_sim no)
+		(at 47.244 139.446 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e88d753e-4a58-4a51-9f4c-d8fe7ba9ecaf")
+	)
 	(junction
 		(at 46.99 52.07)
 		(diameter 0)
