@@ -1,4 +1,4 @@
-STM32U0 sensor module for CottonCandy.
+STM32U031C8T6 sensor module for CottonCandy.
 
 **Debugger Digikey Part #**: 497-STLINK-V3MINIE-ND
 
